@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejemplo1Clase2</string>
+    <string name="txtSaludos">Saludos</string>
+    <string name="btnSaludar">Saludar a alguien</string>
+    <string name="rbtBoton1">Saludar en TextView</string>
+    <string name="rbtBoton2">Saludar en Toast</string>
+    <string name="rbtBoton3">Saludar en Activity</string>
+    <string name="stringSaludos">Saludos</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejemplo - Clase 1</string>
+    <string name="etiqueta1">Dame el primer valor</string>
+    <string name="etiqueta2">Dame el segundo valor</string>
+    <string name="hintValor1">Introduce un entero para el primer valor</string>
+    <string name="hintValor2">Introduce un entero para el segundo valor</string>
+    <string name="botonSumar">Suma</string>
+    <string name="botonPonerCero">Inicializar Todo</string>
+    <string name="txtTotal">Resultado</string>
+</resources>
